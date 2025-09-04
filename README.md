@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ritisa-behera.vercel.app/">
+    <img src="https://github.com/itisar-345/itisar-345/blob/main/assests/me.jpg?raw=true" alt="Ritisa Behera" width="100%" />
+  </a>
+</p>
+
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-%239C27B0.svg?logo=google-chrome&logoColor=white)](https://ritisa-behera.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritisa-behera-43819b258) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritisarabindra@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/ritisa-345/) [![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ritisarabindra)
 
