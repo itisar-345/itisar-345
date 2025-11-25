@@ -72,5 +72,9 @@
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=itisar-345&repo=REPO_NAME&theme=dark)
 
-# My Waka Time Stats:
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+### ⏱️ WakaTime Stats
+<div align="center">
+  <img src="https://wakatime.com/share/@ritisa/da1a28dc-2e68-4ef0-9751-8686dee1af97.svg" width="500" />
+  <img src="https://wakatime.com/share/@ritisa/bb95cb34-db65-48f9-b887-7bc7aef967f6.svg" width="500"/>
+</div>
+
