@@ -1,10 +1,12 @@
+<h1 align="center">Ritisa Behera</h1>
+
 <p align="center">
   <a href="https://ritisa-behera.vercel.app/">
     <img src="https://github.com/itisar-345/itisar-345/blob/main/assests/me.jpg?raw=true" alt="Ritisa Behera" width="100%" />
   </a>
 </p>
 
-<h1 align="center">Ritisa Behera</h1>
+
 <p>I'm a final-year Information Technology student who builds things with Python, React, and a lot of curiosity. My projects live at the intersection of machine learning and real problems — not production systems (yet), but genuinely functional tools I built to understand how things work.</p>
  
 <p>I use AI tools as part of my workflow. I won't pretend otherwise. What I care about is whether I actually understand what I've shipped.</p>
