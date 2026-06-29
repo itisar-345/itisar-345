@@ -36,12 +36,9 @@ Rebuilding some of these projects with better architecture — proper service se
 
 ## My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itisar-345&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=itisar-345&theme=dark&hide_border=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itisar-345&layout=donut&theme=dark)
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=itisar-345&repo=REPO_NAME&theme=dark)
+![](https://streak-stats.demolab.com/?user=itisar-345&currStreakNum=2FD3EB&fire=pink&sideLabels=a95eff&date_format=M%20j[,%20Y]&theme=midnight-purple)
 
 ## My WakaTime Stats
 <div align="center">
